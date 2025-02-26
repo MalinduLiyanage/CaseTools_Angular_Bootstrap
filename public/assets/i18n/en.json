@@ -1,0 +1,12 @@
+{
+  "hello":"Hello",
+  "nav-home":"Home",
+  "nav-services":"Services",
+  "nav-about":"About",
+  "nav-contact":"Contact",
+  "nav-lang-select":"Choose a Language",
+  "hero-title":"Unlocking Potential with Knowledge and Skills!",
+  "hero-desc": "For students, learning how to use CASE tools and analyze various models such as BPMA is crucial. With the right support, students can effectively explore different software models, improve their analytical skills, and gain hands-on experience in designing and optimizing systems. CASE tools not only automate tasks like design and testing but also empower students to understand the complexities of software architecture and business processes, preparing them for real-world challenges in software engineering.",
+  "hero-btn":"See Services!",
+  "heading-services":"Our Services"
+}
